@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **Call me as dilhara**
 
-- [![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AbeysekaraND&theme=tokyonight)](https://git.io/praveenscience)
+- [![](https://activity-graph.herokuapp.com/graph?username=AbeysekaraND&theme=tokyonight)](https://git.io/praveenscience)
 
 | ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=AbeysekaraND&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&theme=tokyonight) |
 | --- | --- |
